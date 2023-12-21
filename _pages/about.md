@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I'm Gosia and this webpage is under construction! 😸"
+title: "Howdy! I'm Gosia!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
