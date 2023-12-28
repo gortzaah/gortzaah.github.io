@@ -12,7 +12,7 @@ Hi! I'm Gosia and this is my academic page under construction. Stay tuned! 😸
 ==
 
 
-⭐ I’m a Ph.D. candidate working with [Dr. David Basanta](https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez"") and Dr. Andriy Marusyk (link) at the Department of Integrated Mathematical Oncology at H. Lee Moffitt Cancer Center and Research Institute (insert link) & University of South Florida (insert link). See the Bio for a detailed introduction (link).
+⭐ I’m a Ph.D. candidate working with [Dr. David Basanta](https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez/) and Dr. Andriy Marusyk (link) at the Department of Integrated Mathematical Oncology at H. Lee Moffitt Cancer Center and Research Institute (insert link) & University of South Florida (insert link). See the Bio for a detailed introduction (link).
 
 
 🧬 I research the evolvability of cancer cells – how the diversification and selection shape the evolution of specific cancer phenotypes. Specifically, I am interested in:
