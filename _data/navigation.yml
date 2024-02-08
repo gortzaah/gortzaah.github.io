@@ -14,11 +14,11 @@ main:
   - title: "CV"
     url: /files/CV_Dec2023.pdf
     
-  - title: "News"
-    url: /portfolio/
+ # - title: "News"
+ #   url: /portfolio/
         
-  - title: "Contact"
-    url: /year-archive/
+ # - title: "Contact"
+ #   url: /year-archive/
     
   # - title: "Guide"
   #   url: /markdown/
