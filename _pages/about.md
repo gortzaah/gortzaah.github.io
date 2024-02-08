@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I’m a Ph.D. Candidate at the Department of [Integrated Mathematical Oncology](https://www.moffitt.org/research-science/divisions-and-departments/quantitative-science/integrated-mathematical-oncology/) at H. Lee Moffitt Cancer Center and Research Institute & University of South Florida. I work under the supervision of [Dr. David Basanta](https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez/) and [Dr. Andriy Marusyk](https://www.moffitt.org/research-science/researchers/andriy-marusyk/) on the evolvability of cancer cells. 
+I’m a Ph.D. Candidate at the Department of [Integrated Mathematical Oncology](https://www.moffitt.org/research-science/divisions-and-departments/quantitative-science/integrated-mathematical-oncology/) at H. Lee Moffitt Cancer Center and Research Institute & University of South Florida. I aim to understand the impact of evolvability on cancer progression under the supervision of [Dr. David Basanta](https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez/) and [Dr. Andriy Marusyk](https://www.moffitt.org/research-science/researchers/andriy-marusyk/). 
 
 Long story short, I ❤️ [MathOnco](https://mathematical-oncology.org/). 
 
@@ -30,5 +30,5 @@ I completed M.Sc. in Mathematical Sciences from KAIST 🇰🇷, M.Sc.Eng. in Mat
 See the **CV** for the complete list of professional activities. 
 
 
-## Name & Pronouns 
+## Name & Pronouns 👩‍🎓
 My pronouns are _she/her_. I'm publishing under the name _Malgorzata Tyczynska **Weh**_. 
