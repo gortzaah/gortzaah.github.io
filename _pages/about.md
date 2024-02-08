@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I’m a Ph.D. Candidate at the Department of [Integrated Mathematical Oncology](https://www.moffitt.org/research-science/divisions-and-departments/quantitative-science/integrated-mathematical-oncology/) at H. Lee Moffitt Cancer Center and Research Institute & University of South Florida. I aim to understand the impact of evolvability on cancer progression under the supervision of [Dr. David Basanta](https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez/) and [Dr. Andriy Marusyk](https://www.moffitt.org/research-science/researchers/andriy-marusyk/). 
+I’m a Ph.D. Candidate at the Department of [Integrated Mathematical Oncology](https://www.moffitt.org/research-science/divisions-and-departments/quantitative-science/integrated-mathematical-oncology/) at H. Lee Moffitt Cancer Center and Research Institute & University of South Florida. I aim to understand the impact of evolvability on cancer progression under the supervision of Dr. [David Basanta](https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez/) and Dr. [Andriy Marusyk](https://www.moffitt.org/research-science/researchers/andriy-marusyk/). 
 
 Long story short, I ❤️ [MathOnco](https://mathematical-oncology.org/). 
 
