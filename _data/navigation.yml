@@ -1,14 +1,16 @@
 # main links links
 main:
+
+
+  - title: "Bio"
+    url: /talks/
+    
+  - title: "Research"
+    url: /teaching/  
+
   - title: "Publications"
     url: https://scholar.google.com/citations?user=6cfcj-0AAAAJ&hl=en
 
-  - title: "Bio"
-    url: /talks/    
-
-  - title: "Research"
-    url: /teaching/  
-    
   - title: "CV"
     url: /files/CV_Dec2023.pdf
     
