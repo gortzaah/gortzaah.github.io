@@ -9,4 +9,4 @@ author_profile: true
 {% include base_path %}
 
 
-Alert! Alert! Dj Dr Cat! CAAAT! 
+Coming soon! 
