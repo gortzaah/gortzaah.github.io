@@ -17,8 +17,4 @@ I'm originally from Wroclaw, Poland. I moved to Denmark at the age of 13 and sta
 
 These broad educational experiences taught me a lot about how our world works, how diverse it is, and how much I love research. 
 
-In Aug 2018 I moved to Ann Arbor, Michigan, to do mathematical biology research and to figure out "what's next". The "next part" turned out to be the Ph.D. at Moffitt, moving to Tampa during Covid and become a cat mom! 
-
-If you're lost, here's a sketch of my travels and degrees:
-
-![mylife](/images/lifestory.svg){: .align-right width="300px"}
+In Aug 2018 I moved to Ann Arbor, Michigan, to do mathematical biology research and to figure out "what's next". The "next part" turned out to be the Ph.D. at Moffitt, moving to Tampa during Covid (Aug 2020) and becoming a cat mom! 
