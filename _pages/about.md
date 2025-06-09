@@ -14,7 +14,7 @@ I hold a Ph.D. in Integrated Mathematical Oncology. My expertise lies in creatin
 
 ## 🧬 Past research focus 
 I primarily use mathematical modeling and data analysis for my research. Because of the interdisciplinary nature of my research, I am actively collaborating with experimental biologists (and hopefully clinicians in the future). Some of my previous research focused on the following problems: 
-* PhD: To understand when, why, and how specific mutation rates benefit cancers adapting to treatment. I also investigated the role of metabolic conversion in the emergence of treatment resistance, using pharmacokinetic (PK) modeling, and the limits of epigenetic DNA (ecDNA) during cancer evolution. 
+* PhD: To understand when, why, and how specific mutation rates benefit cancers adapting to treatment. I also investigated the role of metabolic conversion in the emergence of treatment resistance, using pharmacokinetic (PK) modeling, and the limits of extrachromosomal DNA (ecDNA) during cancer evolution. 
 * Research Assistant: Modeling autocatalytic enzyme kinetics and analyzing reaction kinetics databases
 * M.Sc.: Detecting causality in circadian rhythms models and data
   
