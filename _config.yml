@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gosia Weh"
 title_separator          : "-"
 name                     : &name "Gosia Weh"
-description              : &description "PhD Candidate in Integrated Mathematical Oncology"
+description              : &description "PhD, Integrated Mathematical Oncology"
 url                      : "//gosiaweh.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Gosia Weh"
   avatar           : "gortzaahcat.JPG"
-  bio              : "PhD Candidate, Integrated Mathematical Oncology"
+  bio              : "PhD, Integrated Mathematical Oncology"
   location         : "Tampa, FL"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6cfcj-0AAAAJ&hl=en"
-  email            : "malgorzata.weh@moffitt.org"
+  email            : "gtyczka@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "gosia_handle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
