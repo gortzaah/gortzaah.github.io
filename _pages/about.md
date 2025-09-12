@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-I hold a Ph.D. in Integrated Mathematical Oncology. My expertise lies in creating realistic mathematical models that, when combined with experimental or clinical data, explain cancer evolution and predict other complex biological processes. 
+I hold a Ph.D. in Integrated Mathematical Oncology. I develop realistic mathematical models to understand the evolution of cancer and other complex biological processes. The essential part of my work involves integrating quantitative predictions with real-world experimental or clinical data obtained through close collaborations with clinicians and experimental biologists, allowing my model to have interdisciplinary and translational impact. 
 
 
 ## 🧬 Past research focus 
-I primarily use mathematical modeling and data analysis for my research. Because of the interdisciplinary nature of my research, I am actively collaborating with experimental biologists (and hopefully clinicians in the future). Some of my previous research focused on the following problems: 
+I primarily use mathematical modeling and data analysis for my research. Some of my previous research focused on the following problems: 
 * PhD: To understand when, why, and how specific mutation rates benefit cancers adapting to treatment. I also investigated the role of metabolic conversion in the emergence of treatment resistance, using pharmacokinetic (PK) modeling, and the limits of extrachromosomal DNA (ecDNA) during cancer evolution. 
 * Research Assistant: Modeling autocatalytic enzyme kinetics and analyzing reaction kinetics databases
 * M.Sc.: Detecting causality in circadian rhythms models and data
@@ -26,4 +26,6 @@ See the **CV** for the complete list of professional activities.
 
 
 ## 👩‍🎓 Name & Pronouns 
-My pronouns are _she/her_ or _Dr_. I'm publishing under the name _Malgorzata Tyczynska **Weh**_. 
+My full name is Malgorzata Tyczynska Weh. My pronouns are _she/her_ or _Dr_. 
+
+
