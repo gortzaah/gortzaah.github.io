@@ -25,9 +25,3 @@ I primarily use mathematical modeling and data analysis for my research. Some of
 I completed a Ph.D. at the Department of [Integrated Mathematical Oncology](https://www.moffitt.org/research-science/divisions-and-departments/quantitative-science/integrated-mathematical-oncology/) at Moffitt Cancer Center & the University of South Florida (FL, USA). I also completed M.Sc. in Mathematical Sciences from Korea Advanced Institute of Science and Technology (KAIST, South Korea), M.Sc.Eng. in Mathematical Modeling and Computation from the Technical University of Denmark (DTU, Denmark), and I worked as a research assistant at the Department of Molecular and Integrative Physiology at the University of Michigan Medical School (MI, USA). 
 
 See the **CV** for the complete list of professional activities. 
-
-
-
-
-
-7
