@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gosia Weh"
+title: "Malgorzata (Gosia) Tyczynska Weh"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,8 +9,10 @@ redirect_from:
 ---
 
 
-I hold a Ph.D. in Integrated Mathematical Oncology. I develop realistic mathematical models to understand the evolution of cancer and other complex biological processes. The essential aspect of my work involves integrating quantitative predictions with real-world experimental or clinical data obtained through close collaborations with clinicians and experimental biologists. This allows my model to have a much-needed interdisciplinary and translational impact. 
+I hold a Ph.D. in Integrated Mathematical Oncology and two M.Sc.-level degrees in applied mathematics & modeling, with over 10 years of research experience from research centers around the globe. I develop realistic mathematical models to understand the evolution of cancer and other complex biological processes. The essential aspect of my work involves integrating quantitative predictions with real-world experimental or clinical data obtained through close collaborations with clinicians and experimental biologists. This allows my model to have a much-needed interdisciplinary and translational impact. 
 
+## 👩‍🎓 Name & Pronouns 
+I go by Gosia. My full name is Malgorzata Tyczynska Weh; Weh is my last name. My pronouns are _she/her_, and you can also call me _Dr_. 
 
 ## 🧬 Past research focus 
 I primarily use mathematical modeling and data analysis for my research. Some of my previous research focused on the following problems: 
@@ -25,7 +27,7 @@ I completed a Ph.D. at the Department of [Integrated Mathematical Oncology](http
 See the **CV** for the complete list of professional activities. 
 
 
-## 👩‍🎓 Name & Pronouns 
-My full name is Malgorzata Tyczynska Weh. My pronouns are _she/her_ or _Dr_. 
 
 
+
+7
