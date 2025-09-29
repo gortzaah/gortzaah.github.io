@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gosia Weh"
+title: "Malgorzata (Gosia) Tyczynska Weh"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
