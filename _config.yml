@@ -9,9 +9,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gosia Weh"
+title                    : "Malgorzata (Gosia) Tyczynska Weh"
 title_separator          : "-"
-name                     : "Malgorzata (Gosia) Tyczynska Weh"
+name                     : "Gosia Weh"
 description              : &description "PhD, Integrated Mathematical Oncology"
 url                      : "//gosiaweh.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
