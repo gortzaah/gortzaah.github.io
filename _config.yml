@@ -9,7 +9,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Malgorzata (Gosia) T. Weh, PhD, MSc, MSc Eng"
+title                    : "Gosia Weh"
 title_separator          : "-"
 name                     : "Gosia Weh"
 description              : &description "PostDoc Fellow at the Department of Radiation Oncology, MD Anderson Cancer Center"
@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Gosia Weh"
   avatar           : "gortzaahcat.JPG"
-  bio              : "PhD in Integrated Mathematical Oncology"
+  bio              : "PostDoctoral Researcher || PhD in Integrated Mathematical Oncology"
   location         : "Houston, Tx"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6cfcj-0AAAAJ&hl=en"
-  email            : "gtyczka@gmail.com"
+  email            : "MTWeh@mdanderson.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
