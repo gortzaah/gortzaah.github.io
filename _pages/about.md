@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow working with Dr Heiko Enderling at the Department of Radiation Oncology at the MD Anderson Cancer Center. 
+I am a PostDoctoral fellow working with Dr Heiko Enderling at the Department of Radiation Oncology at the MD Anderson Cancer Center. 
 
 I focus on developing implementable, mathematically driven strategies to improve cancer treatment. The essential aspect of my work involves integrating quantitative predictions with real-world experimental or clinical data obtained through close collaborations with clinicians and experimental biologists. This allows my work to have a much-needed interdisciplinary and translational impact. 
 
