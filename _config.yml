@@ -9,10 +9,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Malgorzata (Gosia) Tyczynska Weh"
+title                    : "Malgorzata (Gosia) T. Weh, PhD, MSc, MSc Eng"
 title_separator          : "-"
 name                     : "Gosia Weh"
-description              : &description "PhD, Integrated Mathematical Oncology"
+description              : &description "PostDoc Fellow at the Department of Radiation Oncology, MD Anderson Cancer Center"
 url                      : "//gosiaweh.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -84,8 +84,8 @@ analytics:
 author:
   name             : "Gosia Weh"
   avatar           : "gortzaahcat.JPG"
-  bio              : "PhD, Integrated Mathematical Oncology"
-  location         : "Tampa, FL"
+  bio              : "PhD in Integrated Mathematical Oncology"
+  location         : "Houston, Tx"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6cfcj-0AAAAJ&hl=en"
