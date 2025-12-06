@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Detailed Research Experience"
 permalink: /research/
 author_profile: true
 
@@ -8,8 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-
-# Detailed Research Experience
 
 ---
 
