@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PostDoctoral fellow working with Dr Heiko Enderling at the Department of Radiation Oncology at the MD Anderson Cancer Center. 
+I am a Postdoctoral fellow working with Dr Heiko Enderling at the Department of Radiation Oncology at MD Anderson Cancer Center. 
 
 I focus on developing implementable, mathematically driven strategies to improve cancer treatment. The essential aspect of my work involves integrating quantitative predictions with real-world experimental or clinical data obtained through close collaborations with clinicians and experimental biologists. This allows my work to have a much-needed interdisciplinary and translational impact. 
 
@@ -21,8 +21,8 @@ I go by Gosia. My last name is Weh. My full name is Malgorzata Tyczynska Weh. My
 ## 🧬 Past research focus 
 I primarily use mathematical modeling and data analysis for my research. Some of my previous research focused on the following problems: 
 * PhD: To understand when, why, and how specific mutation rates benefit cancers adapting to treatment. I also investigated the role of metabolic conversion in the emergence of treatment resistance, using pharmacokinetic (PK) modeling, and the limits of extrachromosomal DNA (ecDNA) during cancer evolution. 
-* Research Assistant: Modeling autocatalytic enzyme kinetics reactions. I also analyzed reaction kinetics databases for the reproducibility of reported biological constants and worked on inferring patterns of cyst formation in oocyte development (early embryogenesis).  
-* M.Sc.: Developed and evaluated methods for detecting causality in circadian rhythms models and synthetically-generated data of oscillatory gene expression patterns. 
+* Research Assistant: Modeling autocatalytic enzyme kinetics reactions. I also analyzed reaction-kinetics databases to assess the reproducibility of reported biological constants and worked on inferring patterns of cyst formation during oocyte development (early embryogenesis).  
+* M.Sc.: Developed and evaluated methods for detecting causality in circadian rhythm models and synthetically-generated data of oscillatory gene expression patterns. 
 
 See the **Research** for the complete list of past research projects. 
 
