@@ -32,3 +32,7 @@ See the **Research** for the complete list of past research projects.
 I completed a Ph.D. at the Department of Integrated Mathematical Oncology at Moffitt Cancer Center & the University of South Florida (FL, USA). I also completed M.Sc. in Mathematical Sciences from Korea Advanced Institute of Science and Technology (KAIST, South Korea), M.Sc.Eng. in Mathematical Modeling and Computation from the Technical University of Denmark (DTU, Denmark), and I worked as a research assistant at the Department of Molecular and Integrative Physiology at the University of Michigan Medical School (MI, USA). 
 
 See the **CV** for the complete list of professional activities. 
+
+
+## 🧑‍🤝‍🧑 Mentoring 
+Life is hard, but good mentorship can change everything! I am happy to help you navigate career paths, answer questions about math/mathbio/mathonco modeling careers, and discuss whatever you need to! Contact me by email or LinkedIn and let's chat. :) 
